@@ -5,5 +5,3 @@ first
 cho
 
 in main
-
-conflict
